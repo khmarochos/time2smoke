@@ -4,6 +4,11 @@
   <img src="cigarette.png" alt="Час перекуру, салага!" width="128" height="128">
 </p>
 
+> I've told you as well as I can how it is to be an institutional man. At first you can't stand those four walls, then you get so you can abide them, then you get so you accept them... and then, as your body and your mind and your spirit adjust to life on an HO scale, you get to love them. You are told when to eat, when you can write letters, when you can smoke. If you're at work in the laundry or the plate-shop, you're assigned five minutes of each hour when you can go to the bathroom. For thirty-five years, my time was twenty-five minutes after the hour, and after thirty-five years, that's the only time I ever felt the need to take a piss or have a crap: twenty-five minutes past the hour. And if for some reason I couldn't go, the need would pass at thirty after, and come back at twenty-five past the next hour.
+> <...>
+> Going to the bathroom, that was another thing. When I had to go (and the urge always came on me at twenty-five past the hour), I had to fight the almost overwhelming need to check it with my boss. Knowing that was something I could just go and do in this too- bright outside world was one thing; adjusting my inner self to that knowledge after all those years of checking it with the nearest screw head or facing two days in solitary for the oversight... that was something else.
+-- "Rita Hayworth and the Shawshank Redemption", Stephen King
+
 **АГА! ТО ТИ, САЛАГА, ВИРІШИВ СОБІ НАГАДУВАЛКУ ПОСТАВИТИ? ПРАВИЛЬНО РОБИШ!**
 
 Слухай сюди, боєць! Це тобі не якась там віндовська хуйня, а нормальна лінуксова система нагадувань, яку я, старший майстер-сержант Вася Заєбко, особисто випробував на собі за 20 років служби! Працює на X.org/Cinnamon, як годинник швейцарський... тьху, як годинник УКРАЇНСЬКИЙ!
